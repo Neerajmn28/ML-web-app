@@ -4,7 +4,7 @@ import numpy as np
 
 
 # Load model
-model = pickle.load(open('C:\Data Science\Project_2 NLP\Model_deployment/trained_model.sav', 'rb'))
+model = pickle.load(open('trained_model.sav', 'rb'))
 
 
 
